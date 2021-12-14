@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\practise\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\ASUS\Desktop\practise\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\ASUS\Desktop\practise\ClassLibrary4\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\practise\ClassLibrary4\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\practise\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\ASUS\Desktop\practise\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
